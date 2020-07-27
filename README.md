@@ -1,6 +1,6 @@
 # Python-PyBank and PyPoll Analysis
 
-![alt text](https://tse3.mm.bing.net/th?id=OIP.zpCA3SGWiRHueF4j7IeQpAAAAA&pid=Api&P=0&w=277&h=162)
+![alt text](https://tse4.mm.bing.net/th?id=OIP.inOqC-2UudejJS1YHwoTpQHaE7&pid=Api&P=0&w=246&h=165)
 
 ## Background
 

@@ -1,6 +1,6 @@
 # Python-PyBank and PyPoll Analysis
 
-![alt text](https://www.investopedia.com/thmb/5tBCmO9wXjWnHeIsp9-J70E9tgg=/1500x1079/filters:fill(auto,1)/GettyImages-157394940-7cffe51373fd43e2849e685d0c3fe713.jpg)
+![alt text](https://tse3.mm.bing.net/th?id=OIP.zpCA3SGWiRHueF4j7IeQpAAAAA&pid=Api&P=0&w=277&h=162)
 
 ## Background
 
